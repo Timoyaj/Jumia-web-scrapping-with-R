@@ -4,18 +4,11 @@
 This project aims to demonstrate a web scraping approach to collect product information from Jumia, a popular online marketplace in Nigeria. The data collected includes details such as product prices, ratings, discounts, and brands from the mobile phones category. The project is implemented using R and utilizes various R packages, such as 'rvest', 'dplyr', 'stringr', 'glue', 'tidyverse', 'RMySQL', and 'DBI', to scrape, manipulate, and store the data.
 
 # Table of Contents
-- [Heading 1](#heading-1)
-  - [Subheading 1.1](#subheading-11)
-  - [Subheading 1.2](#subheading-12)
-    - [Sub-subheading 1.2.1](#sub-subheading-121)
-- [Heading 2](#heading-2)
-  - [Subheading 2.1](#subheading-21)
-# Table of Contents
 - [Introduction](#Introduction)
 - [Requirements](#Requirements)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Unit Testing](#Unit Testing)
+- [Unit Testing](#UnitTesting)
 - [Results](#Results)
 - [Contributing](#Contribution)
 - [License](#License)
