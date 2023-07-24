@@ -69,4 +69,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 We hope this project helps you understand how to utilize web scraping techniques and SQL integration in R to collect and manage online data effectively. Should you have any questions or feedback, please don't hesitate to reach out.
 
-Happy scraping! 🚀
+*Happy scraping!* 🚀
