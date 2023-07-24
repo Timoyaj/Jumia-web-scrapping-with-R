@@ -11,27 +11,25 @@ This project aims to demonstrate a web scraping approach to collect product info
 - [Heading 2](#heading-2)
   - [Subheading 2.1](#subheading-21)
 # Table of Contents
-l.  [Introduction](#Introduction)
-2. [Requirements](#Requirements)
-3. [Installation](#Installation)
-4. [Usage](#Usage)
-5. [Unit Testing](# Unit Testing)
-6. [Results](#Results)
-7. [Contributing](#Contribution)
-8. [License](#License)
+- [Introduction](#Introduction)
+- [Requirements](#Requirements)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Unit Testing](#Unit Testing)
+- [Results](#Results)
+- [Contributing](#Contribution)
+- [License](#License)
 # Introduction
 The growth of online marketplaces has created vast amounts of valuable data that can be utilized for various purposes, including market analysis, pricing insights, and trend identification. Web scraping allows us to extract this data from web pages and organize it for further analysis. This project focuses on scraping product details from Jumia's mobile phones category and storing it in both CSV files and a MySQL database.
 
 # Requirements
 Before running the project, you need to have the following prerequisites:
-
 R (version 4.3.0 or higher)
 R packages: 'rvest', 'dplyr', 'stringr', 'glue', 'tidyverse', 'RMySQL', 'DBI', and 'testthat'
 MySQL database (optional, required only for database storage)
 
 # Installation
 Make sure you have R installed on your system. If not, download and install R from the official R website: https://www.r-project.org/
-
 Install the required R packages by running the following command in your R environment:
 ``` {r}
 install.packages(c("rvest", "dplyr", "stringr", "glue", "tidyverse", "RMySQL", "DBI", "testthat"))
@@ -44,7 +42,6 @@ If you want to store the data in a MySQL database, ensure you have a MySQL serve
 bash
 git clone https://github.com/your-username/your-repository.git
  ```
-
 - Navigate to the project directory:
 ```{r}cd your-repository
 ```
