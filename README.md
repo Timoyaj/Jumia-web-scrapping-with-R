@@ -1,11 +1,11 @@
-Web Scraping Jumia Nigeria Product Information
-Jumia Nigeria
+# Web Scraping Jumia Nigeria Product Information
+# Jumia Nigeria
 
 This project aims to demonstrate a web scraping approach to collect product information from Jumia, a popular online marketplace in Nigeria. The data collected includes details such as product prices, ratings, discounts, and brands from the mobile phones category. The project is implemented using R and utilizes various R packages, such as 'rvest', 'dplyr', 'stringr', 'glue', 'tidyverse', 'RMySQL', and 'DBI', to scrape, manipulate, and store the data.
 
-Table of Contents
-Introduction
-Requirements
+## Table of Contents
+<Introduction>
+<Requirements>
 Installation
 Usage
 Unit Testing
@@ -15,10 +15,10 @@ License
 Introduction
 The growth of online marketplaces has created vast amounts of valuable data that can be utilized for various purposes, including market analysis, pricing insights, and trend identification. Web scraping allows us to extract this data from web pages and organize it for further analysis. This project focuses on scraping product details from Jumia's mobile phones category and storing it in both CSV files and a MySQL database.
 
-Requirements
+## Requirements
 Before running the project, you need to have the following prerequisites:
 
-R (version x.x.x or higher)
+R (version 4.3.0 or higher)
 R packages: 'rvest', 'dplyr', 'stringr', 'glue', 'tidyverse', 'RMySQL', 'DBI', and 'testthat'
 MySQL database (optional, required only for database storage)
 Installation
