@@ -25,7 +25,7 @@ Install the required R packages by running the following command in your R envir
 ``` {r}
 install.packages(c("rvest", "dplyr", "stringr", "glue", "tidyverse", "RMySQL", "DBI", "testthat"))
 ```
-If you want to store the data in a MySQL database, ensure you have a MySQL server running, and create a database and table to store the scraped data.
+If you want to store the data in a MySQL database, ensure a MySQL server is running, and create a database and table to store the scraped data.
 
 ## Usage
 - Clone this repository to your local machine using the following command:
